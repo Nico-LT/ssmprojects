@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [03/Sep/2020:21:25:45 +0800] "GET /ssm_web HTTP/1.1" 302 - http-bio-8888-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Sep/2020:21:25:45 +0800] "GET /ssm_web/ HTTP/1.1" 302 - http-bio-8888-exec-3 70
+0:0:0:0:0:0:0:1 - - [03/Sep/2020:21:25:46 +0800] "GET /ssm_web/login.jsp HTTP/1.1" 200 2579 http-bio-8888-exec-4 904
+0:0:0:0:0:0:0:1 - - [03/Sep/2020:21:25:48 +0800] "POST /ssm_web/login.do HTTP/1.1" 200 12785 http-bio-8888-exec-5 1044
+0:0:0:0:0:0:0:1 - - [03/Sep/2020:21:25:51 +0800] "GET /ssm_web/sysLog/findAll.do HTTP/1.1" 200 21907 http-bio-8888-exec-6 357
+0:0:0:0:0:0:0:1 - - [03/Sep/2020:21:25:51 +0800] "GET /ssm_web/plugins/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js HTTP/1.1" 200 39213 http-bio-8888-exec-8 5
+0:0:0:0:0:0:0:1 - - [03/Sep/2020:22:59:37 +0800] "GET /ssm_web/sysLog/findAll.do HTTP/1.1" 302 - http-bio-8888-exec-10 3
+0:0:0:0:0:0:0:1 - - [03/Sep/2020:22:59:37 +0800] "GET /ssm_web/login.jsp HTTP/1.1" 200 2579 http-bio-8888-exec-10 2
